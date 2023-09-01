@@ -1,0 +1,8 @@
+{
+  "name": "changelog-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/danijelmartinek/changelog-test.git",
+  "author": "<danijel@martinek.xyz>",
+  "license": "MIT"
+}
