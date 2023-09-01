@@ -2,7 +2,16 @@
   "name": "changelog-test",
   "version": "0.0.1",
   "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
+  },
   "repository": "https://github.com/danijelmartinek/changelog-test.git",
   "author": "<danijel@martinek.xyz>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
