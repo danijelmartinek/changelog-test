@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "main": "index.js",
   "scripts": {
+    "commit": "cz",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
@@ -12,6 +13,8 @@
   "author": "<danijel@martinek.xyz>",
   "license": "MIT",
   "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "standard-version": "^9.5.0"
   }
 }
