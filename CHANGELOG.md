@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/danijelmartinek/changelog-test/compare/v0.2.0...v0.2.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* **test:** some test for commits ([681833d](https://github.com/danijelmartinek/changelog-test/commits681833d09927a2c51612ddd0bf81662b2e167484))
+
 ## [0.2.0](https://github.com/danijelmartinek/changelog-test/compare/v0.1.1...v0.2.0) (2023-09-01)
 
 
